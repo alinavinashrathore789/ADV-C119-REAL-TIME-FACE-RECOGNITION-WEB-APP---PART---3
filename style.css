@@ -1,0 +1,53 @@
+.heading
+{
+    font-size: 30px;
+    width: 100%;
+    margin: 0px;
+    box-shadow: 5px 5px 5px yellow;
+    background-color: skyblue;
+   }
+.heading_div
+{
+    float: none;
+    background: lightcoral;
+    padding: 10px;
+    border-radius: 20px;
+    color: black;
+    box-shadow: 5px 5px 5px yellow;
+    text-align: center;
+}
+.heading_div2
+{
+    font-size: 18px;
+    background-color: grey;
+    text-shadow: black;
+    color: black;
+}
+.result_para_tag
+{
+    box-shadow:5px 5px 5px grey;
+    font-size: 20px;
+    background-color: palevioletred;
+    color: white;
+    font-style: italic;
+    font-weight: bold;
+}
+.copy_right_footer {
+    position: fixed;
+    color: white;
+    bottom: 0;
+    width: 100%;
+    background-color: pink;
+    line-height: 3;
+    text-align: center;
+    font-size: 18px;
+    font-weight: bold;
+    font-style: italic;
+}
+canvas
+{
+    border:5px solid white;
+    border-radius:20px;
+    box-shadow: 5px 5px 5px yellow;
+    margin-top: 150px;
+}
